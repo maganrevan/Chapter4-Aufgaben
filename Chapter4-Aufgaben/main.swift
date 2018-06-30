@@ -8,5 +8,9 @@
 
 import Foundation
 
-print("Hello, World!")
+var fNumberFloat:Float = 1.234567890123456
 
+var dNumberDouble:Double = 1.234567890123456
+
+print("float: \(fNumberFloat)\n")
+print("double: \(dNumberDouble)\n")
